@@ -1,3 +1,5 @@
 .env
 __pycache__/
 *.pyc
+ai-vision-leads-*.json
+google-credentials.json
